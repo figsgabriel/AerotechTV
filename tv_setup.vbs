@@ -5,7 +5,7 @@ Dim UpdateUrl, ShutdownTime, objNetwork, computerName, DefaultPassword, version,
 Set objNetwork = CreateObject("WScript.Network")
 
 computerName = objNetwork.ComputerName
-ShutdownTime = ""
+ShutdownTime = "Golaerotech738*"
 
 '================= INÍCIO DA ÁREA DE TRABALHO =================
 
