@@ -5,13 +5,13 @@ Dim UpdateUrl, ShutdownTime, objNetwork, computerName, DefaultPassword, version,
 Set objNetwork = CreateObject("WScript.Network")
 
 computerName = objNetwork.ComputerName
-ShutdownTime = "Golaerotech738*"
+ShutdownTime = ""
 
 '================= INÍCIO DA ÁREA DE TRABALHO =================
 
 RefreshInterval = 60000 'milissegundos
 
-DefaultPassword = ""
+DefaultPassword = "Golaerotech738*"
 
 UpdateUrl = "https://raw.githubusercontent.com/figsgabriel/AerotechTV/main/password.txt"
 
