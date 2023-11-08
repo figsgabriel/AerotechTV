@@ -17,7 +17,7 @@ RefreshInterval = 60000 '<- Inserir intervalo de atualização do Chrome em mili
 
 filePath = "tv_setup_test_1.vbs"
 
-DefaultPassword = "Golaerotech738*" '<- Inserir senha entre parenteses. Não alterar forma devido ao regex
+DefaultPassword = "senha" '<- Inserir senha entre parenteses. Não alterar forma devido ao regex
 
 UpdateUrl = "https://raw.githubusercontent.com/figsgabriel/AerotechTV/main/tv_setup.vbs" '<- Inserir link do da atualização do codigo
 
